@@ -10,7 +10,6 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
@@ -24,7 +23,9 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 - Step 3: Install and setup Active Directory.
 - Step 4: Creating OUs, Users, and assigning roles.
 - Step 5: Add the Windows 10 VM to the domain.
-- Step 6: 
+- Step 6: Allow all users to Remote Desktop into the VM.
+- Step 7: Create additional users to test that everything is working.
+- Step 8: Resetting passwords and disabling accounts.
 
 <h2>Deployment and Configuration Steps</h2>
 
